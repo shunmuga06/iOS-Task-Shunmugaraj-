@@ -21,7 +21,7 @@ Requirements:
 Installation:
   Clone the repository to your local machine:
     Copy
-    git clone https://github.com/yourusername/AustralianCitiesApp.git
+    git clone https://github.com/shunmuga06/iOS-Task-Shunmugaraj-
   
   Open the project in Xcode:
     Copy
