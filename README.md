@@ -16,6 +16,10 @@ Screenshots:
 Requirements:
   Xcode 12.0 or higher
   iOS 14.0+
+
+https://github.com/user-attachments/assets/523960d2-9ddd-462c-8379-d2e9a491d600
+
+
   Swift 5.0+
 
 Installation:
