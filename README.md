@@ -29,7 +29,7 @@ Installation:
   
   Open the project in Xcode:
     Copy
-    open ShunmugarajTask.xcodeproj
+    open iOS-Task-Shunmugaraj.xcodeproj
   Build and run the app on the simulator or a physical device.
 
 How to Use
